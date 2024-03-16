@@ -7,21 +7,7 @@ Get your ASCII dog fix.
 ```sh
 go install github.com/bschaatsbergen/doggo@latest
 ```
-
-## Usage
-
-```sh
-doggo - go get a dog
-
-Usage:
-  doggo
-
-Flags:
-  -c, --copy   copy ASCII dog to clipboard
-  -h, --help   help for doggo
-```
-
-## Get a dog
+## Copy a dog to your clipboard
 
 ```sh
 $ doggo --copy
