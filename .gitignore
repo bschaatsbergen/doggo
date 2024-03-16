@@ -8,6 +8,9 @@
 *.so
 *.dylib
 
+# doggo binary
+doggo
+
 # Test binary, built with `go test -c`
 *.test
 
