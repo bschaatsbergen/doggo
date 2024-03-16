@@ -11,12 +11,11 @@ go install github.com/bschaatsbergen/doggo@latest
 ## Usage
 
 ```sh
-doggo - go get a dog
+$ doggo --copy
 
-Usage:
-  doggo
-
-Flags:
-  -c, --copy   copy ASCII dog to clipboard
-  -h, --help   help for doggo
+    / \__
+   (    @\___
+   /         O
+ /   (_____/
+/_____/   U
 ```
