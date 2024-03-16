@@ -1,14 +1,6 @@
 # doggo
 
-```
-    / \__
-   (    @\___
-   /         O
- /   (_____/
-/_____/   U
-```
-
-doggo is a simple command line tool to get a dog. It prints an ASCII dog to the terminal. Optionally, it can copy the dog to the clipboard.
+dog(go) is a simple command line tool to get a dog. It prints an ASCII dog to the terminal.
 
 ## Installing
 
