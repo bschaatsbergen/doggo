@@ -8,7 +8,7 @@ From source:
 ```sh
 git clone git@github.com:bschaatsbergen/doggo
 cd doggo
-make
+go build
 ```
 
 ## Usage
