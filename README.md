@@ -2,13 +2,10 @@
 
 Get your ASCII dog fix.
 
-## Installing
+## Install
 
-From source:
 ```sh
-git clone git@github.com:bschaatsbergen/doggo
-cd doggo
-go build
+go install github.com/bschaatsbergen/doggo@latest
 ```
 
 ## Usage
