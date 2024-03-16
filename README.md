@@ -1,6 +1,6 @@
 # doggo
 
-dog(go) is a simple command line tool to get a dog. It prints an ASCII dog to the terminal.
+Get your ASCII dog fix.
 
 ## Installing
 
