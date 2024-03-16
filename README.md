@@ -22,10 +22,11 @@ Flags:
   -h, --help   help for doggo
 ```
 
-## Go get a dog
+## Get a dog
 
 ```sh
-$ doggo
+$ doggo --copy
+
     / \__
    (    @\___
    /         O
