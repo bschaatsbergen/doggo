@@ -11,7 +11,6 @@ go install github.com/bschaatsbergen/doggo@latest
 ## Usage
 
 ```sh
-$ doggo -h
 doggo - go get a dog
 
 Usage:
